@@ -15,7 +15,7 @@ keep_files:
 
 # Site settings
 title: Joshua and Associates
-subtitle: "Attorneys at Law
+subtitle: "Attorneys at Law"
 url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/airspace-jekyll"
