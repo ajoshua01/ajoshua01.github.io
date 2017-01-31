@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: "Joshua and Associates"
 subtitle: "Attorneys at Law"
-url: "ajoshua01.github.io" # the base hostname & protocol for your site
+url: "http://ajoshua01.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/airspace-jekyll"
 cover: "/assets/cover.png"
