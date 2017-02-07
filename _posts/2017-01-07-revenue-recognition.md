@@ -25,7 +25,8 @@ Compensation. The new standard affects the timing of when revenue is recognized
 
 To address the potential impact for existing compensation programs, there are two basic choices. A company can either redesign the detailed terms of the program to try and replicate the payouts that would have occurred under the old revenue recognition standard, or it can maintain separate records that recognize revenue the old way for compensation purposes.
 The first option may require considerable time and effort, and legally may require approval from all affected stakeholders, which can be difficult to obtain. The second option is theoretically more straightforward, but requires ongoing duplication of effort. Even then, the second option could be vulnerable to legal challenges, since the unofficial, old-style numbers likely won’t carry quite the same legal weight as official numbers.
-Full or Modified?
+
+<strong>Full or Modified?</strong>
 
 One of the biggest issues companies must address when deciding how to implement the new standard is whether to use the “full retrospective” transition method or the “modified retrospective” transition method. With the “full retrospective” method, financial results for the current year and two prior years are all presented using the new revenue recognition standard. With the “modified retrospective” option, only the current year is presented using the new standard, while the two prior years are presented using the old standard accompanied by disclosures that explain how to compare the new with the old.
 
