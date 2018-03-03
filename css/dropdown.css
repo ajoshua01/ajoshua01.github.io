@@ -43,3 +43,12 @@
 .dropdown:hover .dropbtn {
     background-color: white;
 }
+
+.services{
+ padding-right: 30px;   
+}
+.services h1{
+    color: blue;
+    display: block;
+    
+}
