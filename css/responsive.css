@@ -206,6 +206,7 @@ px      68    160    252    */
 --*/
   #service {
     padding-top: 100px;
+    padding-left: 50px;
   }
   #service .thumbnail {
     padding-bottom: 70px;
